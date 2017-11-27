@@ -1,0 +1,1 @@
+document.write("we need money now");
